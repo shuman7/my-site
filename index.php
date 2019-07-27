@@ -30,7 +30,6 @@
             <div class="main-text">
                 <h1>
                     <span>SENO<br>CORDER</span>
-                    <!-- <span id="typed"></span><span class="typed-cursor">|</span> -->
                 </h1>
                 <div class="code-icon">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/code.svg" alt="code-icon">
@@ -101,25 +100,6 @@
             </div>
         </section>
     </div> 
-    <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.extensions.min.js"></script> -->
-    <!-- <script type="text/javascript" src="?php echo get_template_directory_uri(); ?>/js/typed.js"></script>
-    <script>
-        $(function(){
-                $("#typed").typed({
-                    strings: ["Hello!", "こんにちは!", "안녕하세요!", "您好!"],
-                    typeSpeed: 150,
-                    startDelay: 20,
-                    showCursor: false,
-                    shuffle: true,
-                    loop:true
-                });
-            });
-    </script> -->
-    <!-- <script>
-        $(document).ready(function() {
-        $('#fullpage').fullpage();
-        });
-    </script> -->
 </body>
 </html>
 
