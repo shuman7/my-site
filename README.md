@@ -1,3 +1,2 @@
 # my-site
-senoのポートフォリオです。
-index.php、style.cssを管理します。
+senoのポートフォリオです。githubの勉強を兼ねて、index.php、style.cssを管理します。
